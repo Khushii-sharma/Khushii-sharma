@@ -44,38 +44,16 @@
 
 <h2 align="center">🙋‍♀️ About Me</h2>
 
-<p align="center">
-I'm a passionate <b>Full Stack Developer</b> who enjoys building real-world applications and solving challenging problems through code. I love learning new technologies and continuously improving my development skills.
-</p>
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-<br>
+I'm a passionate **Full Stack Developer** who enjoys building real-world applications and solving challenging problems through code. I love learning new technologies and continuously improving my development skills.
 
-<table align="center">
-<tr>
-<td>
-
-### 👩‍💻 Currently
-
-- 🌱 Learning **React.js & Full Stack Development**
+- 🌱 Currently learning **React.js & Full Stack Development**
 - 💡 Exploring Backend Development
 - 🧠 Practicing **Data Structures & Algorithms**
 - 🚀 Building real-world projects
 - 🤝 Open to collaboration on exciting projects
 
-</td>
-
-</tr>
-</table>
-
----
-
-### ⚡ Quick Facts
-
-- 💻 I enjoy building projects that solve real-world problems.
-- ☕ Java is my favorite programming language.
-- 📚 I believe consistency beats motivation.
-- 🌟 I enjoy turning ideas into interactive web applications.
-- 🚀 My goal is to contribute to impactful software products.
 
 ---
 
