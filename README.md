@@ -22,8 +22,6 @@
 
 <img src="https://img.shields.io/badge/Lives-India-success?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Open%20To-Internships-blue?style=for-the-badge"/>
-
 <img src="https://komarev.com/ghpvc/?username=Khushii-sharma&label=Profile%20Views&color=orange&style=for-the-badge"/>
 
 </p>
