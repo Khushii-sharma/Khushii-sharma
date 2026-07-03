@@ -142,137 +142,61 @@ I'm a passionate <b>Full Stack Developer</b> who enjoys building real-world appl
 
 <h2 align="center">🚀 Featured Projects</h2>
 
+<br>
+
+| 🚀 Project | 💡 Description |
+|:-----------|:---------------|
+| 🤖 **RAG Chatbot** | AI-powered Retrieval-Augmented Generation chatbot using **Python, FastAPI, FAISS & LLMs**. |
+| 📊 **Data Analyzer** | Analyze, clean, and visualize datasets using **Python, Pandas & Matplotlib**. |
+| 💬 **Chatbot** | Intelligent chatbot built using **Python** and Natural Language Processing. |
+| ❓ **Quiz App** | Interactive quiz application built using **HTML, CSS & JavaScript**. |
+| 🍽️ **Recipe Diary** | Modern recipe management application with a clean and responsive UI. |
+| 🎓 **Enrollment App** | Student enrollment and course registration management system. |
+| 📚 **Book Explorer** | Search and discover books through a clean and user-friendly interface. |
+
+---
+
+<!-- ===================================================== -->
+<!--                  GITHUB ANALYTICS                     -->
+<!-- ===================================================== -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
-Here are some of the projects I've built while exploring Full Stack Development, AI, and Web Technologies.
+<i>A quick overview of my GitHub activity and coding journey.</i>
+</p>
+
+<br>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Khushii-sharma&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushii-sharma&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushii-sharma&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Khushii-sharma&theme=algolia&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" />
 </p>
 
 ---
 
-## 🤖 RAG Chatbot
+<!-- ===================================================== -->
+<!--               CONTRIBUTION SNAKE                      -->
+<!-- ===================================================== -->
 
-> **An AI-powered Retrieval-Augmented Generation chatbot that provides accurate and context-aware responses using vector search and Large Language Models.**
+<h2 align="center">🐍 Contribution Graph</h2>
 
-### 🛠️ Tech Stack
-`Python` `FastAPI` `FAISS` `Sentence Transformers` `LLMs`
-
-### ✨ Features
-
-- 🔍 Semantic Search
-- 📚 Context-aware Responses
-- ⚡ Fast Retrieval using FAISS
-- 🤖 AI-powered Question Answering
-- 📄 Document-based Search
-
-
----
-
-## 📊 Data Analyzer
-
-> **A Python application for analyzing datasets, cleaning data, generating statistics, and visualizing insights.**
-
-### 🛠️ Tech Stack
-
-`Python` `Pandas` `NumPy` `Matplotlib`
-
-### ✨ Features
-
-- 📈 Data Visualization
-- 🧹 Data Cleaning
-- 📊 Statistical Analysis
-- 📁 CSV File Support
-- 📋 Report Generation
-
-
----
-
-## 💬 AI Chatbot
-
-> **A chatbot capable of understanding user queries and providing intelligent responses through Natural Language Processing.**
-
-### 🛠️ Tech Stack
-
-`Python`
-
-### ✨ Features
-
-- 💬 Interactive Conversations
-- ⚡ Quick Responses
-- 🧠 NLP-based Processing
-- 😊 User Friendly Interface
-
-
----
-
-## ❓ Quiz App
-
-> **A responsive quiz application with score tracking and an engaging user experience.**
-
-### 🛠️ Tech Stack
-
-`HTML` `CSS` `JavaScript`
-
-### ✨ Features
-
-- 📝 Multiple Choice Questions
-- ⏱️ Timer Support
-- 📊 Score Tracking
-- 📱 Responsive UI
-
-
----
-
-## 🍽️ Recipe Diary
-
-> **A modern recipe management website where users can browse and organize their favorite recipes.**
-
-### 🛠️ Tech Stack
-
-`HTML` `CSS` `JavaScript`
-
-### ✨ Features
-
-- 🔍 Search Recipes
-- ❤️ Save Favorites
-- 📱 Responsive Design
-- 🎨 Modern UI
-
-
----
-
-## 🎓 Enrollment App
-
-> **A student enrollment system for managing course registration efficiently.**
-
-### 🛠️ Tech Stack
-
-`HTML` `CSS` `JavaScript`
-
-### ✨ Features
-
-- 👨‍🎓 Student Registration
-- 📚 Course Enrollment
-- 🖥️ Simple Dashboard
-- 📱 Responsive Interface
-
-
----
-
-## 📚 Book Explorer
-
-> **A web application to search and explore books with a clean and user-friendly interface.**
-
-### 🛠️ Tech Stack
-
-`HTML` `CSS` `JavaScript`
-
-### ✨ Features
-
-- 📖 Search Books
-- 📚 Browse Collection
-- 🎨 Clean UI
-- 📱 Responsive Design
-
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/Khushii-sharma/Khushii-sharma/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
