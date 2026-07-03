@@ -200,108 +200,75 @@ I'm a passionate <b>Full Stack Developer</b> who enjoys building real-world appl
 
 ---
 
-# 📈 GitHub Statistics
+<!-- ===================================================== -->
+<!--                  CONNECT WITH ME                      -->
+<!-- ===================================================== -->
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+Let's connect and collaborate! Feel free to reach out.
+</p>
+
+<br>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khushii-sharma&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushii-sharma&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushii-sharma&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Khushii-sharma&theme=onedark&row=1&column=7"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Khushii-sharma/Khushii-sharma/output/github-contribution-grid-snake-dark.svg">
-
-</p>
-
----
-
-# 🌐 Connect with Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/khushi-sharma-691555263/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/Khushii-sharma">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://www.linkedin.com/in/khushi-sharma-691555263/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:sharmakhushi1501@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.icons8.com/color/48/domain.png" width="48"/>
+<a href="https://github.com/Khushii-sharma">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<!-- Uncomment when your portfolio is live -->
+
+<!--
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+</a>
+-->
 
 </p>
 
+
 ---
 
-# 📚 Coding Profiles
+<!-- ===================================================== -->
+<!--                 CODING PROFILES                       -->
+<!-- ===================================================== -->
 
-<p>
+<h2 align="center">💻 Coding Profiles</h2>
+
+<p align="center">
 
 <a href="https://leetcode.com/u/sharmakhushi1501/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/sharmakhufick?tab=activity">
-<img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
+<!-- ===================================================== -->
+<!--                      FOOTER                           -->
+<!-- ===================================================== -->
 
-> **"First, solve the problem. Then, write the code." — John Johnson**
+<div align="center">
 
----
+### ⭐ Thanks for visiting my profile! ⭐
 
-<p align="center">
+If you like my work, don't forget to **⭐ Star** my repositories.
 
-<img src="https://komarev.com/ghpvc/?username=Khushii-sharma&label=Profile+Views&color=orange&style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=120&section=footer"/>
 
-</p>
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, don't forget to ⭐ my repositories.
-
-</p>
+</div>
