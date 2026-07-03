@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Kumari</h1>
 
 <h3 align="center">
-A Passionate Full Stack Developer from India 🇮🇳
+A Passionate Full Stack Developer from Bangalore 🇮🇳
 </h3>
 
 <p align="center">
@@ -61,50 +61,16 @@ A Passionate Full Stack Developer from India 🇮🇳
 
 # 🚀 Featured Projects
 
-## 🌿 EcoCart
+| Project | Description |
+|---------|-------------|
+| 🤖 **RAG-Chatbot** | AI-powered Retrieval-Augmented Generation chatbot using Python, FastAPI, FAISS & LLMs. |
+| 📊 **Data-Analyzer** | Analyze, clean and visualize datasets with Python. |
+| 💬 **Chatbot** | Intelligent chatbot built using Python and NLP. |
+| ❓ **Quiz App** | Interactive quiz application built with HTML, CSS and JavaScript. |
+| 🍽️ **Recipe Diary** | Recipe management application with a modern UI. |
+| 🎓 **Enrollment App** | Student enrollment and course registration system. |
+| 📚 **Book Explorer** | Search and discover books with an elegant interface. |
 
-A sustainable E-commerce website built using React.
-
-⭐ Features
-
-- Responsive UI
-- Product Listing
-- Shopping Cart
-- Modern Design
-
----
-
-## ⚖️ Legal RAG Chatbot
-
-Built using
-
-- Python
-- FastAPI
-- FAISS
-- Sentence Transformers
-- LLM
-
-Features
-
-- Semantic Search
-- Citation Support
-- Legal Question Answering
-
----
-
-## 🌐 Personal Portfolio
-
-Built using
-
-- HTML
-- CSS
-- JavaScript
-
-Features
-
-- Responsive Design
-- Dark Theme
-- Animated UI
 
 ---
 
@@ -130,15 +96,7 @@ Features
 
 ---
 
-# 📊 Contribution Graph
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
 
 # 🏆 GitHub Trophies
 
@@ -164,15 +122,15 @@ Features
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/khushi-sharma-691555263/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Khushii-sharma">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sharmakhushi1501@gmail.com">
 <img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
 </a>
 
@@ -188,11 +146,11 @@ Features
 
 <p>
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<a href="https://leetcode.com/u/sharmakhushi1501/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/">
+<a href="https://www.geeksforgeeks.org/profile/sharmakhufick?tab=activity">
 <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
