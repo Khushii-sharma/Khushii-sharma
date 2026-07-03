@@ -136,17 +136,142 @@ I'm a passionate <b>Full Stack Developer</b> who enjoys building real-world appl
 
 ---
 
-# 🚀 Featured Projects
+<!-- ===================================================== -->
+<!--                 FEATURED PROJECTS                     -->
+<!-- ===================================================== -->
 
-| Project | Description |
-|---------|-------------|
-| 🤖 **RAG-Chatbot** | AI-powered Retrieval-Augmented Generation chatbot using Python, FastAPI, FAISS & LLMs. |
-| 📊 **Data-Analyzer** | Analyze, clean and visualize datasets with Python. |
-| 💬 **Chatbot** | Intelligent chatbot built using Python and NLP. |
-| ❓ **Quiz App** | Interactive quiz application built with HTML, CSS and JavaScript. |
-| 🍽️ **Recipe Diary** | Recipe management application with a modern UI. |
-| 🎓 **Enrollment App** | Student enrollment and course registration system. |
-| 📚 **Book Explorer** | Search and discover books with an elegant interface. |
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+Here are some of the projects I've built while exploring Full Stack Development, AI, and Web Technologies.
+</p>
+
+---
+
+## 🤖 RAG Chatbot
+
+> **An AI-powered Retrieval-Augmented Generation chatbot that provides accurate and context-aware responses using vector search and Large Language Models.**
+
+### 🛠️ Tech Stack
+`Python` `FastAPI` `FAISS` `Sentence Transformers` `LLMs`
+
+### ✨ Features
+
+- 🔍 Semantic Search
+- 📚 Context-aware Responses
+- ⚡ Fast Retrieval using FAISS
+- 🤖 AI-powered Question Answering
+- 📄 Document-based Search
+
+
+---
+
+## 📊 Data Analyzer
+
+> **A Python application for analyzing datasets, cleaning data, generating statistics, and visualizing insights.**
+
+### 🛠️ Tech Stack
+
+`Python` `Pandas` `NumPy` `Matplotlib`
+
+### ✨ Features
+
+- 📈 Data Visualization
+- 🧹 Data Cleaning
+- 📊 Statistical Analysis
+- 📁 CSV File Support
+- 📋 Report Generation
+
+
+---
+
+## 💬 AI Chatbot
+
+> **A chatbot capable of understanding user queries and providing intelligent responses through Natural Language Processing.**
+
+### 🛠️ Tech Stack
+
+`Python`
+
+### ✨ Features
+
+- 💬 Interactive Conversations
+- ⚡ Quick Responses
+- 🧠 NLP-based Processing
+- 😊 User Friendly Interface
+
+
+---
+
+## ❓ Quiz App
+
+> **A responsive quiz application with score tracking and an engaging user experience.**
+
+### 🛠️ Tech Stack
+
+`HTML` `CSS` `JavaScript`
+
+### ✨ Features
+
+- 📝 Multiple Choice Questions
+- ⏱️ Timer Support
+- 📊 Score Tracking
+- 📱 Responsive UI
+
+
+---
+
+## 🍽️ Recipe Diary
+
+> **A modern recipe management website where users can browse and organize their favorite recipes.**
+
+### 🛠️ Tech Stack
+
+`HTML` `CSS` `JavaScript`
+
+### ✨ Features
+
+- 🔍 Search Recipes
+- ❤️ Save Favorites
+- 📱 Responsive Design
+- 🎨 Modern UI
+
+
+---
+
+## 🎓 Enrollment App
+
+> **A student enrollment system for managing course registration efficiently.**
+
+### 🛠️ Tech Stack
+
+`HTML` `CSS` `JavaScript`
+
+### ✨ Features
+
+- 👨‍🎓 Student Registration
+- 📚 Course Enrollment
+- 🖥️ Simple Dashboard
+- 📱 Responsive Interface
+
+
+---
+
+## 📚 Book Explorer
+
+> **A web application to search and explore books with a clean and user-friendly interface.**
+
+### 🛠️ Tech Stack
+
+`HTML` `CSS` `JavaScript`
+
+### ✨ Features
+
+- 📖 Search Books
+- 📚 Browse Collection
+- 🎨 Clean UI
+- 📱 Responsive Design
+
 
 
 ---
