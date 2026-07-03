@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Khushi Kumari</h1>
+<h1 align="center">Hi 👋, I'm Khushi</h1>
 
 <h3 align="center">
-A Passionate Full Stack Developer from Bangalore 🇮🇳
+Full Stack Developer • Java • React • Python
 </h3>
 
 <p align="center">
@@ -78,7 +78,7 @@ A Passionate Full Stack Developer from Bangalore 🇮🇳
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Khushii-sharma&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushii-sharmaE&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushii-sharma&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
