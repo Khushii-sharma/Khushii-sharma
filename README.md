@@ -43,8 +43,6 @@ A Passionate Full Stack Developer from Bangalore 🇮🇳
 <img src="https://skillicons.dev/icons?i=react"/>
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 <img src="https://skillicons.dev/icons?i=express"/>
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-<img src="https://skillicons.dev/icons?i=flask"/>
 </p>
 
 ### 🛠 Tools
@@ -78,9 +76,9 @@ A Passionate Full Stack Developer from Bangalore 🇮🇳
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khushii-sharma&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushii-sharmaE&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -90,7 +88,7 @@ A Passionate Full Stack Developer from Bangalore 🇮🇳
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushii-sharma&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -102,7 +100,7 @@ A Passionate Full Stack Developer from Bangalore 🇮🇳
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Khushii-sharma&theme=onedark&row=1&column=7"/>
 
 </p>
 
@@ -112,7 +110,7 @@ A Passionate Full Stack Developer from Bangalore 🇮🇳
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/Khushii-sharma/Khushii-sharma/output/github-contribution-grid-snake-dark.svg">
 
 </p>
 
@@ -166,7 +164,7 @@ A Passionate Full Stack Developer from Bangalore 🇮🇳
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=orange&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Khushii-sharma&label=Profile+Views&color=orange&style=for-the-badge"/>
 
 </p>
 
