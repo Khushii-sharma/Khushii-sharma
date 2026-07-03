@@ -44,7 +44,7 @@
 
 <h2 align="center">🙋‍♀️ About Me</h2>
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
 I'm a passionate **Full Stack Developer** who enjoys building real-world applications and solving challenging problems through code. I love learning new technologies and continuously improving my development skills.
 
