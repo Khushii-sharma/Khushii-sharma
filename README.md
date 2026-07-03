@@ -1,12 +1,40 @@
-<h1 align="center">Hi 👋, I'm Khushi</h1>
+<!-- ===================================================== -->
+<!--                   HEADER SECTION                      -->
+<!-- ===================================================== -->
+
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Khushi
+</h1>
 
 <h3 align="center">
-Full Stack Developer • Java • React • Python
+💻 Full Stack Developer • Java • React • Python
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;React+Developer;Python+Developer;Problem+Solver;Always+Learning+New+Things..." />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=900&color=F97316&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Java+Developer;React+Developer;Python+Developer;Problem+Solver;Always+Learning+New+Things..." />
+
 </p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Lives-India-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Internships-blue?style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=Khushii-sharma&label=Profile%20Views&color=orange&style=for-the-badge"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ✨ *"Building ideas into reality, one line of code at a time."*
+
+</div>
 
 ---
 
