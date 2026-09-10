@@ -87,6 +87,8 @@ I'm a passionate **Full Stack Developer** who enjoys building real-world applica
 <img src="https://skillicons.dev/icons?i=react" />
 <img src="https://skillicons.dev/icons?i=nodejs" />
 <img src="https://skillicons.dev/icons?i=express" />
+<img src="https://skillicons.dev/icons?i=nextjs" />
+<img src="https://skillicons.dev/icons?i=django" />
 </p>
 
 ---
